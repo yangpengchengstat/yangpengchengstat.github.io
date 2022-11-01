@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "About me", icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "yang781@purdue.edu"}
-  - {title: github, icon: github, url: "https://github.com/yangpengchengstat"}
+  - {title: Mail, icon: envelope, url: "mailto:yang781@purdue.edu"}
+  - {title: Github, icon: github, url: "https://github.com/yangpengchengstat"}
   #- {title: LinkedIn, icon: rss, url: "https://www.linkedin.com/in/pengcheng-yang-7614351b6/"}
 
 comments:
